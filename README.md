@@ -2,6 +2,8 @@
 
 A developer portfolio built with **Next.js 16**, **Payload CMS 3**, **Tailwind CSS v4**, and **HeroUI**. All content is CMS-driven — fork it, replace the placeholder data with your own, and deploy.
 
+![Portfolio Screenshot](screenshot.png)
+
 ## Features
 
 - **CMS-driven content** — edit everything (hero, about, experience, projects, skills, education) from the Payload admin panel
